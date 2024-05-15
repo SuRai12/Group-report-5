@@ -1,13 +1,17 @@
 # Group-report-5
 Introduction
+Description of the scope 
+
+
+Rationale -- can be research questions
 
 
 
 
 
 
-
-Data
+Data 
+Segmentation Annotation 
 
 
 
@@ -19,7 +23,7 @@ Data
 
 
 Methodology
-
+Collection, cleaning, analysis 
 
 
 
