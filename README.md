@@ -1,5 +1,5 @@
 # Group-report-5
-Introduction
+Introduction (Su)
 Description of the scope 
 
 
@@ -22,7 +22,7 @@ Segmentation Annotation
 
 
 
-Methodology
+Methodology (Beth)
 Collection, cleaning, analysis 
 
 
