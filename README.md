@@ -41,5 +41,6 @@ Discussion (Miffy)
 
 
 
-Contributors (All of us) 
+Contributors 
+The project tasks were completed with equal contribution and effort from all members of the team.
 
