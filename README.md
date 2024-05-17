@@ -26,6 +26,10 @@ Segmentation Annotation
 Methodology (Beth)
 Collection, cleaning, analysis 
 
+Our research targets mainly focus on 3 fields, product reviews from editors, shopping platforms, and official websites. After obtaining data from these skin care review websites, the following steps are data cleaning and annotation. 
+
+For the data cleaning part, we will use Python code to clean unnecessary information from the reviews, for example, punctuation and spacing. We believe that punctuation can’t tell the difference or represent individual emotions. Thus, we focused on the literal meaning or wording of the respondents. 
+
 
 
 
