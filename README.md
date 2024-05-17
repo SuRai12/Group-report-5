@@ -26,6 +26,5 @@ After we collected the data, we observed that most of the customer were not very
 Based on this situation, we believe it is difficult to directly predict the chance of re-buying a product. We found many customers are not fully satisfied with their choice, but they are not aware it may be their fault, they just believe the rating but not well thought out.  Furthermore, the presence of biased reviews, such as those influenced by monetary incentives or celebrity endorsements, diminishes the reference value for consumers.
 To be honest, there is insufficient information for customers as references, so it is challenging to determine the precise likelihood of re-buying a product. The one thing, we firmed was that if the customers had bad comments, they definitely would not purchase it again. 
 
-Contributors 
-The project tasks were completed with equal contribution and effort from all members of the team.
+
 
