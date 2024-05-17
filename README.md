@@ -26,4 +26,4 @@ To be honest, there is insufficient information for customers as references, so 
 
 
 **Contributers** 
-
+The project tasks were completed with equal contribution and effort from all members of the team.
