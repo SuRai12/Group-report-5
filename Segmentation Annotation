@@ -1,0 +1,23 @@
+
+Segmentation Annotation
+
+1. <PD>= Product >Product name  
+Define: Products highlighted in reviews 
+Eg: <PD>Peach & Lily</PD>,<PD>toner</PD> 
+
+2. <+> Positive  >Score + proportion
+<-> Negative  >Score + proportion
+Five points is the highest, and the number will be rounded to an integer.Then based on the content of the comments, the proportion  of positive and negative sentence by comments
+
+Eg: Score: 4/5 
+ <G>Spread smoothly around the eye area.</G>, <B>The hydrating effect doesn't last long</B>
+
+3. <T> = Time (Daily routine) 
+
+Define: Daily habits shared by users
+Eg: <T>After sleep</T> , <T>in the morning and night</T>
+<G>= GOOD REVIEWS >Word choice
+<B>=BAD REVIEWS   >Word choice
+
+4. Paid = accepting money
+   Genuine = does not represent any position 
