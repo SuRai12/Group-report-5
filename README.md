@@ -741,6 +741,9 @@ ID: 75 (2) Normal/Facial Product/Genuine
 
 
 Discussion
+
+
+
 After we collected the data, we observed that most of the customer were not very satisfied with their consumption choice, even if they gave a high score they still complained about it or believed there was an improvement in the product. The minority represents anger because the product is unable to meet their standard. By understanding this statement, we think these reviews may affect people's customing choices, especially if a person without any opinions or someone reads a comment carelessly. Some reviewers gave bad comments but the ranking is high, therefore it is impossible to be sure at all. In addition, some of the comments are about accepting money and they will only praise it, for consumers, it has no reference value. However, consumers are in vain and easily priced out and celebrity and platform certifications affect their judgment. 
 
 Based on this situation, we believe it is difficult to directly predict the chance of re-buying a product. We found many customers are not fully satisfied with their choice, but they are not aware it may be their fault, they just believe the rating but not well thought out.  Furthermore, the presence of biased reviews, such as those influenced by monetary incentives or celebrity endorsements, diminishes the reference value for consumers.
